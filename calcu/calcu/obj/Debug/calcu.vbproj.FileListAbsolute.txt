@@ -1,0 +1,24 @@
+C:\Users\lawrence\Desktop\calcu\calcu\bin\Debug\calcu.exe.config
+C:\Users\lawrence\Desktop\calcu\calcu\bin\Debug\calcu.exe
+C:\Users\lawrence\Desktop\calcu\calcu\bin\Debug\calcu.pdb
+C:\Users\lawrence\Desktop\calcu\calcu\bin\Debug\calcu.xml
+C:\Users\lawrence\Desktop\calcu\calcu\obj\Debug\calcu.vbprojAssemblyReference.cache
+C:\Users\lawrence\Desktop\calcu\calcu\obj\Debug\calcu.Form1.resources
+C:\Users\lawrence\Desktop\calcu\calcu\obj\Debug\calcu.Resources.resources
+C:\Users\lawrence\Desktop\calcu\calcu\obj\Debug\calcu.vbproj.GenerateResource.cache
+C:\Users\lawrence\Desktop\calcu\calcu\obj\Debug\calcu.vbproj.CoreCompileInputs.cache
+C:\Users\lawrence\Desktop\calcu\calcu\obj\Debug\calcu.exe
+C:\Users\lawrence\Desktop\calcu\calcu\obj\Debug\calcu.xml
+C:\Users\lawrence\Desktop\calcu\calcu\obj\Debug\calcu.pdb
+C:\Users\lawrence\Desktop\factual programming progect\calcu\calcu\bin\Debug\calcu.exe.config
+C:\Users\lawrence\Desktop\factual programming progect\calcu\calcu\bin\Debug\calcu.exe
+C:\Users\lawrence\Desktop\factual programming progect\calcu\calcu\bin\Debug\calcu.pdb
+C:\Users\lawrence\Desktop\factual programming progect\calcu\calcu\bin\Debug\calcu.xml
+C:\Users\lawrence\Desktop\factual programming progect\calcu\calcu\obj\Debug\calcu.vbprojAssemblyReference.cache
+C:\Users\lawrence\Desktop\factual programming progect\calcu\calcu\obj\Debug\calcu.Form1.resources
+C:\Users\lawrence\Desktop\factual programming progect\calcu\calcu\obj\Debug\calcu.Resources.resources
+C:\Users\lawrence\Desktop\factual programming progect\calcu\calcu\obj\Debug\calcu.vbproj.GenerateResource.cache
+C:\Users\lawrence\Desktop\factual programming progect\calcu\calcu\obj\Debug\calcu.vbproj.CoreCompileInputs.cache
+C:\Users\lawrence\Desktop\factual programming progect\calcu\calcu\obj\Debug\calcu.exe
+C:\Users\lawrence\Desktop\factual programming progect\calcu\calcu\obj\Debug\calcu.xml
+C:\Users\lawrence\Desktop\factual programming progect\calcu\calcu\obj\Debug\calcu.pdb
